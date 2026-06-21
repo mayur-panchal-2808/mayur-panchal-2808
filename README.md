@@ -90,20 +90,6 @@ I'm a **Full Stack Developer with a strong GenAI focus**, passionate about build
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayur-panchal-2808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-panchal-2808&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mayur-panchal-2808&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect!
