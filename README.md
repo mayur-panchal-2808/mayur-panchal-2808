@@ -4,8 +4,7 @@
 
 ### Full Stack Developer | Generative AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurpanchal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurpanchal28803@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-panchal-250042215/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayur-panchal-2808)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayur-panchal-2808&color=blueviolet&style=flat-square)
@@ -16,26 +15,20 @@
 
 ### 🚀 About Me
 
-- 🔥 Turning LLMs into real, scalable products — not just demos
+I'm a **Full Stack Developer with a strong GenAI focus**, passionate about building AI systems that go beyond prototypes and actually work at scale in production. I specialize in designing and shipping **end-to-end Generative AI platforms** — from crafting intuitive React frontends to architecting Python-based AI backends with RAG pipelines, multi-agent orchestration, and real-time streaming.
+
 - 🤖 Passionate about RAG, multi-agent orchestration & conversational AI
 - 💻 Full Stack Dev who loves the entire stack — from React UI to Python AI pipelines
-- 📍 Ahmedabad, Gujarat, India
+- 🎓 B.Tech in Computer Engineering (2020–2024)
+- 📍 Based in **Ahmedabad, Gujarat, India**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Frontend & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java)](https://skillicons.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
-
-**Backend & Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,python,fastapi,nodejs,spring)](https://skillicons.dev)
 
 **AI / ML**
 
@@ -49,17 +42,16 @@
 **Cloud & Azure**
 
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Cognitive_Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cognitive](https://img.shields.io/badge/Azure_Cognitive_Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure AD](https://img.shields.io/badge/Azure_Active_Directory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **DevOps & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,redis,git,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,redis,git,mysql,postgres,mongodb)](https://skillicons.dev)
 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -118,7 +110,6 @@
 
 *Open to exciting GenAI and Full Stack opportunities.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurpanchal)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurpanchal28803@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-panchal-250042215/)
 
 </div>
